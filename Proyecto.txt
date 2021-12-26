@@ -1,0 +1,173 @@
+La temática es a "Músicos Argentinos".
+
+- Cada alumno deberá elegir un músico argentino de su preferencia y desarrollar un sitio de 3 pantallas (inicio y 2 secciones), con información sobre el músico elegido.
+
+- Formato de entrega: archivo de texto que contenga la URL con el sitio online
+
+- Fecha de entrega: 29 de Marzo
+
+- Fecha de recuperatorio: 05 de Abril
+
+
+Jaf
+
+https://es.wikipedia.org/wiki/JAF
+https://www.facebook.com/jafoficial/
+http://www.jaf.com.ar/
+
+
+
+Incluir la clase Card para las fotos de los enventos junto con la descripcion
+
+<div class="container" >
+        <img src="Imagenes/Publicidad00.jpg" id="jaf_evento1"> 
+      </div>
+       <div class="container">
+        <img class="center-block" src="Imagenes/Publicidad01.jpg" id="jaf_evento2"> 
+      </div>
+    </div>
+
+
+
+1985: Riff VII
+
+• 1987: Riff 'n' roll (en vivo).
+
+• 1995: Paladium '86 (en vivo).
+
+• 1996: En vivo en Obras, 17-12-1985
+
+
+ 1989: Entrar en vos
+
+• 1990: Diapositivas
+
+• 1991: Salida de emergencia
+
+• 1992: Me voy para el sur
+
+• 1994: Hombre de blues
+
+• 1995: Corazón en llamas
+
+• 1997: Grandes éxitos(Compilación)
+
+• 1997: Número 7
+
+• 2003: Un largo camino
+
+• 2005: JAF en vivo (Cd+Dvd)
+
+• 2006: Aire
+
+• 2007: Uno +
+
+• 2009: Supercharger
+
+• 2010: JAF Vivo! (Cd+Dvd)
+
+• 2013: Canciones de amor
+
+• 2015 TRIBUTO A RIFF VII
+
+• 2017 INSTINTO
+
+
+
+   <div class="row">
+      <div class="col-md-6">Riff</div>
+      <div class="col-md-6">Solista</div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-6">Riff VII - 1985</div>
+      <div class="col-md-6">Entrar en vos - 1989</div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6">Riff 'n' roll (en vivo)</div>
+      <div class="col-md-6">Diapositivas - 1990</div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6">Paladium '86 (en vivo)</div>
+      <div class="col-md-6">Salida de emergencia - 1991</div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6">En vivo en Obras, 17-12-1985 - 1996</div>
+      <div class="col-md-6">Me voy para el sur - 1992</div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6"></div>
+      <div class="col-md-6">Hombre de blues - 1994</div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6"></div>
+      <div class="col-md-6">Corazón en llamas - 1995</div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6"></div>
+      <div class="col-md-6">Grandes éxitos(Compilación) - 1997</div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6"></div>
+      <div class="col-md-6">Número 7 - 1997</div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6"></div>
+      <div class="col-md-6">Un largo camino - 2003</div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6"></div>
+      <div class="col-md-6">JAF en vivo (Cd+Dvd) - 2005</div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6"></div>
+      <div class="col-md-6">Aire - 2006</div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6"></div>
+      <div class="col-md-6">Uno + - 2007</div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6"></div>
+      <div class="col-md-6">Supercharger - 2009</div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6"></div>
+      <div class="col-md-6">JAF Vivo! - 2010</div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6"></div>
+      <div class="col-md-6">Canciones de amor- 2013</div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6"></div>
+      <div class="col-md-6">TRIBUTO A RIFF VII- 2015</div>
+    </div>
+
+     <div class="row">
+      <div class="col-md-6"></div>
+      <div class="col-md-6">INSTINTO- 2017</div>
+
+
+height: 280px;
+  width: 720px;
+    </div>
+
+
+ height: 800px;
+  width: 1024px;
